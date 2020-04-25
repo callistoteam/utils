@@ -1,0 +1,11 @@
+{
+  "name": "@wonderbot/utils",
+  "version": "1.0.0",
+  "description": "Utils for WonderBot",
+  "main": "index.js",
+  "author": "Team. Callisto",
+  "license": "MIT",
+  "dependencies": {
+    "string-similarity": "^4.0.1"
+  }
+}
